@@ -1,0 +1,16 @@
+h3 {
+    font-size: 20px;
+    color: cyan;
+}
+.btn-success:hover {
+    background-color: yellowgreen;
+}
+canvas {
+    animation-name: EEEEEISEEEEE;
+    animation-duration: 1ms;
+    animation-iteration-count: infinite;
+}
+@keyframes EEEEEISEEEEE {
+    from{box-shadow: 2px 2px 30px gold;}
+    to{box-shadow: 2px 2px 30px black;}
+}
